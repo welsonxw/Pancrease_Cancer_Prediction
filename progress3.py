@@ -11,7 +11,7 @@ from scipy.stats import f_oneway
 # -------------------------------
 # Load Dataset
 # -------------------------------
-df = pd.read_csv(r"C:\bioinfo2\p4b\project\pancreatic_cancer_prediction_sample.csv")
+df = pd.read_csv(r"C:\bioinfo2\p4b\project\Pancrease_Cancer_Prediction\pancreatic_cancer_prediction_sample.csv")
 
 # -------------------------------
 # Encode categorical levels

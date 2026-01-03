@@ -16,7 +16,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 # -------------------------------
 # Load Dataset
 # -------------------------------
-df = pd.read_csv(r"C:\bioinfo2\p4b\project\pancreatic_cancer_prediction_sample.csv")
+df = pd.read_csv(r"C:\bioinfo2\p4b\project\Pancrease_Cancer_Prediction\pancreatic_cancer_prediction_sample.csv")
 
 # -------------------------------
 # Encode categorical levels
