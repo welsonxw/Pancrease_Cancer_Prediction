@@ -141,5 +141,5 @@ prediction = model.predict(new_patient_data)
 ---
 
 <p align="center">
-  <i>Built with 💻 and ☕ by Group 10</i>
+  <i>bye from by Group 10</i>
 </p>
