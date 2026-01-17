@@ -3,6 +3,16 @@
 
 ---
 
+## 👥 Group 10 - Team Members
+
+| Name | Matric Number |
+|------|---------------|
+| Welson Woong Lu Bin | A23CS0196 |
+| Ravinesh A/L Maran | A23CS0175 |
+| Bernice Lou Min Yun | A23CS0056 |
+
+---
+
 ## 🎯 Mission: Predicting Pancreatic Cancer Outcomes
 
 Pancreatic cancer remains one of the **deadliest cancers worldwide**, with survival rates heavily influenced by early detection and accurate prognosis. Misclassification of survival outcomes can lead to inappropriate treatment plans and missed intervention opportunities.
@@ -18,16 +28,6 @@ This project, developed for the **Programming for Bioinformatics (SECB3203)** co
 | Diagnosis | Stage at Diagnosis |
 | Treatment | Treatment Type |
 | Lifestyle | Physical Activity, Diet, Healthcare Access |
-
----
-
-## 👥 Group 10 - Team Members
-
-| Name | Matric Number |
-|------|---------------|
-| Welson Woong Lu Bin | A23CS0196 |
-| Ravinesh A/L Maran | A23CS0175 |
-| Bernice Lou Min Yun | A23CS0056 |
 
 ---
 
